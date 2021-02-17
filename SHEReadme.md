@@ -55,3 +55,5 @@ You can find code of conduct [here](https://github.com/priyalbhatewara123/SHE--L
 ## 📌 LICENSE 
 This project's repository is licensed under the [Apache License 2.0](https://github.com/priyalbhatewara123/SHE--Live-Without-Fear/blob/master/LICENSE). Please see the `LICENSE.md` file for more details.
 
+### <p align = "center"> [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) </p> 
+## <p align = "center">by Priyal Bhatewara </p>
