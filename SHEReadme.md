@@ -15,7 +15,8 @@ Women's safety is a big concern till date. Womens of various age group have been
 ## 📌 App's Interface Demo (with Screenshots)
 <div>
  <img src="https://github.com/priyalbhatewara123/SHE--Live-Without-Fear/blob/master/screenshots/Screenshot1.jpeg" width="200" padding-right="2px">
- <img src="https://github.com/priyalbhatewara123/SHE--Live-Without-Fear/blob/master/screenshots/Screenshot4.jpeg" width="200">
+ <img src="https://github.com/priyalbhatewara123/SHE--Live-Without-Fear/blob/master/screenshots/Screenshot4.jpeg" width="200" padding-right="2px">
+ <img src="https://github.com/priyalbhatewara123/SHE--Live-Without-Fear/blob/master/screenshots/Screenshot3.jpeg" width="200">
 </div> 
 
 ## 📌 Features / Workflow: 
