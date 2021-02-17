@@ -1,6 +1,7 @@
 # <p align = "center"> SHE - Live without Fear </p>
 
-SHE is a Women safety android application📱 that can be accessed easily at the time of emergency 🚨👀. User just need to press an emergency button and it sends an alert message along with the current location to the registered contacts.🚀🙌
+
+SHE is a special purpose Women safety Android application 📱 that can be accessed easily at the time of emergency 🚨. The user just needs to press an Emergency button and the app will send an alert message along with the current location of the user to the registered contacts, thereby making a distress call.🚀🙌
 
 ## Motivation✨
 Women's safety is a big concern till date. Womens of various age group have been subjected to domestic violence,abuse and rape. Womens ougth to travel late night generally , so it's important to remain safe . Although the government is taking necessary measures for their safety, still, there are free safety apps for women that can help them to stay safe. Most of the females these days carry their smartphone with them, so it is necessary to have at least one personal safety app installed. 👮‍♀️✔
