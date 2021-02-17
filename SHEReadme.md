@@ -10,7 +10,7 @@ SHE is a special purpose Women safety Android application 📱 that can be acces
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
 
 ## 📌 Motivation 
-Women's safety is a big concern till date. Womens of various age group have been subjected to domestic violence,abuse and rape. Womens ougth to travel late night generally , so it's important to remain safe . Although the government is taking necessary measures for their safety, still, there are free safety apps for women that can help them to stay safe. Most of the females these days carry their smartphone with them, so it is necessary to have at least one personal safety app installed. 👮‍♀️✔
+Women's safety is a major social concern in the present day. Women of various age groups have been subjected to domestic violence, abuse and rape. Ladies ought to travel late night generally, so it's important to take essential precautions to remain safe. Although the government is taking necessary measures for their safety, still, there are free safety apps for women that can help them to stay safe. Most of the females these days carry their smartphone with them, so it is necessary to have at least one personal safety app installed. 👮‍♀️✔
 
 ## 📌 App's Interface Demo (with Screenshots)
 <div>
