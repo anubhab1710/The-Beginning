@@ -15,4 +15,4 @@ The script will print the SSIDs and usernames of all the connected devices. The 
 >`wlan`: command that allows you to access the Wi-Fi profiles\
 >`network`: the unique name of wireless network. 
 ## Output:
-![Output1](/The-Beginning/Test/WiFi.PNG)
+![Output1](Wifi.PNG)
